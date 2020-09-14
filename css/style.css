@@ -607,20 +607,14 @@ ul.social li span{
 	min-height: 65px;
 	display: block;
 }
-ul.social li.been span{
+ul.social li.twitter span{
 	background-position: -85px -97px;
 }
-ul.social li.angle span{
+ul.social li.linkedin span{
 	background-position: -154px -97px;
 }
-ul.social li.vimeo span{
-	background-position: -222px -97px;
-}
 ul.social li.facebook span{
-	background-position: -297px -97px;
-}
-ul.social li.twitter span{
-	background-position: -371px -97px;
+	background-position: -222px -97px;
 }
 /*--footer--*/
 .footer{
